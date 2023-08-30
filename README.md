@@ -1,3 +1,3 @@
 # crypto-pulses
 
-# cryptopulses2.netlify.app
+# cryptpulses2.netlify.app
